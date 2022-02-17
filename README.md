@@ -47,9 +47,12 @@ O projeto ainda não foi finalizado. Ainda faltam os seguintes requisitos:
       - Express
       - Jest
       - Supertest
+      - MongoDB
   - Frontend
     - Foram utilizados as seguintes tecnologias:
       - React
       - Sass
       - Miragejs*
-      -  
+      - Jest
+      - Testing Library
+* *Miragejs foi utilizado para simular um backend para desenvolver a aplicação no frontend
