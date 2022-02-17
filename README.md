@@ -1,5 +1,9 @@
 # Task Manager
 
+## Links dos Repositórios individuais
+  - https://github.com/paulopbomfim/task-manager-backend
+  - https://github.com/paulopbomfim/task-manager-frontend
+
 ## Observações
 O projeto ainda não foi finalizado. Ainda faltam os seguintes requisitos:
   - No Backend
